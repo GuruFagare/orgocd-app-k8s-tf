@@ -1,0 +1,26 @@
+# Terraform state, plan output, providers
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+
+# Local terraform overrides and var files (may contain secrets)
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Local AWS credentials / kubeconfig
+.aws/
+kubeconfig
+kubeconfig*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
