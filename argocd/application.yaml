@@ -10,7 +10,7 @@ spec:
 
   source:
     # TODO: replace with the HTTPS URL of YOUR own Git repo where this project lives
-    repoURL: https://github.com/<your-username>/<your-repo>.git
+    repoURL: https://github.com/GuruFagare/orgocd-app-k8s-tf.git
     targetRevision: HEAD
     # Path inside the repo that holds the Kubernetes manifests
     path: k8s
