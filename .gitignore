@@ -1,6 +1,6 @@
-# Terraform state, plan output, providers
+# Terraform
 **/.terraform/
-**/.terraform.lock.hcl
+.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
 *.tfplan
@@ -20,7 +20,7 @@ override.tf.json
 kubeconfig
 kubeconfig*
 
-# Editor / OS
+# OS / editor
 .DS_Store
 .idea/
 .vscode/
