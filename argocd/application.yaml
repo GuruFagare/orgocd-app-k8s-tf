@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default 
   source:
-    repoURL: https://github.com/GuruFagare/devops_eks_assignment.git
+    repoURL: https://github.com/GuruFagare/orgocd-app-k8s-tf.git
     targetRevision: HEAD
     path: manifests
   destination:
